@@ -21,11 +21,14 @@ def double(ints: List[Int]): List[Int] =
     buffer += i * 2
   buffer.toList
 
-val oldNumbers = List(1, 2, 3)
-val newNumbers = double(oldNumbers)
+val oldNumbers: List[Int] = List(1, 2, 3)
+var newNumbers: List[Int] = double(oldNumbers)
+
+//   var myList = List[Int]
+
 @main
-def FrenchDate: Unit =
-  var myList = List[Int]
+def FrenchDate(): Unit =
+
   val now = LocalDate.now
   val df = DateTimeFormatter.ofLocalizedDate(FormatStyle.LONG).withLocale(FRENCH)
   println(df.format(now))
@@ -37,8 +40,14 @@ def FrenchDate: Unit =
     println(li)
   }
 
-  for lAny <- list do
+  for lAny <- list do {
     println(lAny)
+  }
 
+/*
+for vrAny <- newNumbers do {
+  println(vrAny)
+}
+*/
 
 

@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5a6d5497-72a7-484a-b15f-a7ac1758bf0f" name="Changes" comment="1-st commit create project">
+    <list default="true" id="5a6d5497-72a7-484a-b15f-a7ac1758bf0f" name="Changes" comment="2-st commit add lists operations">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/frdt.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/frdt.scala" afterDir="false" />
     </list>
@@ -91,7 +91,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676819339878</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="2-st commit add lists operations">
+      <created>1676832591983</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1676832591983</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -107,6 +114,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="1-st commit create project" />
-    <option name="LAST_COMMIT_MESSAGE" value="1-st commit create project" />
+    <MESSAGE value="2-st commit add lists operations" />
+    <option name="LAST_COMMIT_MESSAGE" value="2-st commit add lists operations" />
   </component>
 </project>
